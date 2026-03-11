@@ -4,3 +4,4 @@ Status & Details Spreadsheet: https://docs.google.com/spreadsheets/d/1lqINuCsRyA
 
 Version 0.0.1: All text is in appropriate places, proficiencies expected to work
 Version 0.0.2: Most features are implemented with some duplication and unnecessary layers. All text is basically formatted.
+Version 0.0.3: Fixed Warlock Striking/Greater Warlock Striking
